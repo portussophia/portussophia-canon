@@ -1,0 +1,10 @@
+# PortusSophia™ Canon Code Owners
+
+# All canonical content requires review and approval by canonical guardians
+* @portussophia/canon-guardians
+
+# Sealed artifacts require additional scrutiny
+/postulates/ @portussophia/canon-guardians
+/doctrine/ @portussophia/canon-guardians
+/mappings/ @portussophia/canon-guardians
+/hashes/ @portussophia/canon-guardians
